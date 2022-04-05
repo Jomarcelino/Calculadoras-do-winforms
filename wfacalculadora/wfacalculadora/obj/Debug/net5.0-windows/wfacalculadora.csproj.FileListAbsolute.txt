@@ -1,0 +1,32 @@
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\bin\Debug\net5.0-windows\wfacalculadora.exe
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\bin\Debug\net5.0-windows\wfacalculadora.deps.json
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\bin\Debug\net5.0-windows\wfacalculadora.runtimeconfig.json
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\bin\Debug\net5.0-windows\wfacalculadora.runtimeconfig.dev.json
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\bin\Debug\net5.0-windows\wfacalculadora.dll
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\bin\Debug\net5.0-windows\ref\wfacalculadora.dll
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\bin\Debug\net5.0-windows\wfacalculadora.pdb
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.csproj.AssemblyReference.cache
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.csproj.GenerateResource.cache
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.AssemblyInfoInputs.cache
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.AssemblyInfo.cs
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.csproj.CoreCompileInputs.cache
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.dll
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\ref\wfacalculadora.dll
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.pdb
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.genruntimeconfig.cache
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.Properties.Resources.resources
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.calcradio.resources
+D:\pasta temporaria do jao\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.menu.resources
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.csproj.AssemblyReference.cache
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.calcradio.resources
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.menu.resources
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.Properties.Resources.resources
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.csproj.GenerateResource.cache
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.AssemblyInfoInputs.cache
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.AssemblyInfo.cs
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.csproj.CoreCompileInputs.cache
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.dll
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\ref\wfacalculadora.dll
+D:\teste\wfacalculadora\wfacalculadora\obj\Debug\net5.0-windows\wfacalculadora.pdb

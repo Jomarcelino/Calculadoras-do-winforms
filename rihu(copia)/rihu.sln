@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rihu", "rihu\rihu.csproj", "{83235FEA-B138-4E1B-A262-AD0479EDBDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83235FEA-B138-4E1B-A262-AD0479EDBDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83235FEA-B138-4E1B-A262-AD0479EDBDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83235FEA-B138-4E1B-A262-AD0479EDBDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83235FEA-B138-4E1B-A262-AD0479EDBDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A40551-9DFD-442B-8FCC-8A37FF0368E1}
+	EndGlobalSection
+EndGlobal
